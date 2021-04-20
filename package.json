@@ -15,7 +15,6 @@
     "helmet": "^4.5.0",
     "jsonwebtoken": "^8.5.1",
     "kue": "^0.11.6",
-    "kue-ui-express": "^1.1.1",
     "moment": "^2.29.1",
     "mongoose": "^5.12.5",
     "uuid": "^8.3.2"
