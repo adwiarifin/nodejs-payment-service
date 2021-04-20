@@ -12,3 +12,6 @@ This repo is simple rest api with express, mongoose, kue, jwt. Secured by cors &
 4. `yarn dev:worker:transfer` -> to run transfer worker function
 
 * Bonus, to see queue dashboard, go to: http://localhost:1234/kue-ui
+
+## Example Data
+Data has been generated using [mongodump](https://docs.mongodb.com/database-tools/mongodump/) in folder `/dump` if you want to import the data, use [mongorestore](https://docs.mongodb.com/database-tools/mongorestore/)
